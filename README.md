@@ -1,0 +1,1 @@
+Welcome to my Power BI project repository! This space showcases a collection of interactive data dashboards and business intelligence solutions created using Microsoft Power BI. Each project demonstrates my ability to clean, transform, visualize, and analyze data to deliver actionable insights.
